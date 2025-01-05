@@ -2,7 +2,7 @@
 
 ## Getting the Current Keybinds from Blender
 
-Run this within the Python Scripting Interface with the system console open (Window | Toggle System Console):
+Run this within the Scripting workspace in Blender with the system console open to check for errors (Window | Toggle System Console):
 
 ```python
 from bpy import context as C
