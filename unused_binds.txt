@@ -1,0 +1,196 @@
+Unused Binds:
+EQUAL
+MINUS
+Ctrl + NUMPAD_5
+Ctrl + NUMPAD_9
+Ctrl + NUMPAD_SLASH
+Ctrl + WHEELINMOUSE
+Ctrl + WHEELOUTMOUSE
+Ctrl + Y
+Shift + COMMA
+Shift + J
+Shift + MINUS
+Shift + NUMPAD_0
+Shift + NUMPAD_5
+Shift + NUMPAD_9
+Shift + NUMPAD_PERIOD
+Shift + NUMPAD_SLASH
+Shift + PERIOD
+Shift + SLASH
+Shift + U
+Shift + WHEELINMOUSE
+Shift + WHEELOUTMOUSE
+Alt + ACCENT_GRAVE
+Alt + COMMA
+Alt + DEL
+Alt + EQUAL
+Alt + MINUS
+Alt + NUMPAD_0
+Alt + NUMPAD_1
+Alt + NUMPAD_2
+Alt + NUMPAD_3
+Alt + NUMPAD_4
+Alt + NUMPAD_5
+Alt + NUMPAD_6
+Alt + NUMPAD_7
+Alt + NUMPAD_8
+Alt + NUMPAD_9
+Alt + NUMPAD_PERIOD
+Alt + NUMPAD_PLUS
+Alt + PERIOD
+Alt + U
+Alt + WHEELINMOUSE
+Alt + WHEELOUTMOUSE
+Alt + X
+Alt + Y
+Ctrl + Shift + ACCENT_GRAVE
+Ctrl + Shift + COMMA
+Ctrl + Shift + DEL
+Ctrl + Shift + F
+Ctrl + Shift + H
+Ctrl + Shift + I
+Ctrl + Shift + K
+Ctrl + Shift + L
+Ctrl + Shift + NUMPAD_0
+Ctrl + Shift + NUMPAD_2
+Ctrl + Shift + NUMPAD_4
+Ctrl + Shift + NUMPAD_5
+Ctrl + Shift + NUMPAD_6
+Ctrl + Shift + NUMPAD_8
+Ctrl + Shift + NUMPAD_9
+Ctrl + Shift + NUMPAD_PERIOD
+Ctrl + Shift + NUMPAD_SLASH
+Ctrl + Shift + P
+Ctrl + Shift + PERIOD
+Ctrl + Shift + SLASH
+Ctrl + Shift + U
+Ctrl + Shift + WHEELINMOUSE
+Ctrl + Shift + WHEELOUTMOUSE
+Ctrl + Shift + Y
+Ctrl + Alt + ACCENT_GRAVE
+Ctrl + Alt + COMMA
+Ctrl + Alt + DEL
+Ctrl + Alt + E
+Ctrl + Alt + EQUAL
+Ctrl + Alt + HOME
+Ctrl + Alt + J
+Ctrl + Alt + K
+Ctrl + Alt + L
+Ctrl + Alt + M
+Ctrl + Alt + MIDDLEMOUSE
+Ctrl + Alt + MINUS
+Ctrl + Alt + N
+Ctrl + Alt + NUMPAD_1
+Ctrl + Alt + NUMPAD_2
+Ctrl + Alt + NUMPAD_3
+Ctrl + Alt + NUMPAD_4
+Ctrl + Alt + NUMPAD_5
+Ctrl + Alt + NUMPAD_6
+Ctrl + Alt + NUMPAD_7
+Ctrl + Alt + NUMPAD_8
+Ctrl + Alt + NUMPAD_9
+Ctrl + Alt + NUMPAD_PERIOD
+Ctrl + Alt + NUMPAD_PLUS
+Ctrl + Alt + NUMPAD_SLASH
+Ctrl + Alt + O
+Ctrl + Alt + ONE
+Ctrl + Alt + PERIOD
+Ctrl + Alt + R
+Ctrl + Alt + SLASH
+Ctrl + Alt + T
+Ctrl + Alt + THREE
+Ctrl + Alt + TWO
+Ctrl + Alt + U
+Ctrl + Alt + V
+Ctrl + Alt + WHEELINMOUSE
+Ctrl + Alt + WHEELOUTMOUSE
+Ctrl + Alt + X
+Ctrl + Alt + Y
+Ctrl + Alt + Z
+Alt + Shift + ACCENT_GRAVE
+Alt + Shift + B
+Alt + Shift + C
+Alt + Shift + COMMA
+Alt + Shift + D
+Alt + Shift + DEL
+Alt + Shift + EQUAL
+Alt + Shift + F
+Alt + Shift + HOME
+Alt + Shift + J
+Alt + Shift + K
+Alt + Shift + L
+Alt + Shift + M
+Alt + Shift + MIDDLEMOUSE
+Alt + Shift + MINUS
+Alt + Shift + N
+Alt + Shift + NUMPAD_0
+Alt + Shift + NUMPAD_1
+Alt + Shift + NUMPAD_2
+Alt + Shift + NUMPAD_3
+Alt + Shift + NUMPAD_4
+Alt + Shift + NUMPAD_5
+Alt + Shift + NUMPAD_6
+Alt + Shift + NUMPAD_7
+Alt + Shift + NUMPAD_8
+Alt + Shift + NUMPAD_9
+Alt + Shift + NUMPAD_PERIOD
+Alt + Shift + NUMPAD_PLUS
+Alt + Shift + NUMPAD_SLASH
+Alt + Shift + P
+Alt + Shift + PERIOD
+Alt + Shift + SLASH
+Alt + Shift + U
+Alt + Shift + V
+Alt + Shift + WHEELINMOUSE
+Alt + Shift + WHEELOUTMOUSE
+Alt + Shift + X
+Alt + Shift + Y
+Ctrl + Alt + Shift + A
+Ctrl + Alt + Shift + ACCENT_GRAVE
+Ctrl + Alt + Shift + B
+Ctrl + Alt + Shift + COMMA
+Ctrl + Alt + Shift + D
+Ctrl + Alt + Shift + DEL
+Ctrl + Alt + Shift + E
+Ctrl + Alt + Shift + EQUAL
+Ctrl + Alt + Shift + F
+Ctrl + Alt + Shift + H
+Ctrl + Alt + Shift + HOME
+Ctrl + Alt + Shift + I
+Ctrl + Alt + Shift + J
+Ctrl + Alt + Shift + K
+Ctrl + Alt + Shift + L
+Ctrl + Alt + Shift + M
+Ctrl + Alt + Shift + MIDDLEMOUSE
+Ctrl + Alt + Shift + MINUS
+Ctrl + Alt + Shift + N
+Ctrl + Alt + Shift + NUMPAD_0
+Ctrl + Alt + Shift + NUMPAD_1
+Ctrl + Alt + Shift + NUMPAD_2
+Ctrl + Alt + Shift + NUMPAD_3
+Ctrl + Alt + Shift + NUMPAD_4
+Ctrl + Alt + Shift + NUMPAD_5
+Ctrl + Alt + Shift + NUMPAD_6
+Ctrl + Alt + Shift + NUMPAD_7
+Ctrl + Alt + Shift + NUMPAD_8
+Ctrl + Alt + Shift + NUMPAD_9
+Ctrl + Alt + Shift + NUMPAD_PERIOD
+Ctrl + Alt + Shift + NUMPAD_PLUS
+Ctrl + Alt + Shift + NUMPAD_SLASH
+Ctrl + Alt + Shift + O
+Ctrl + Alt + Shift + ONE
+Ctrl + Alt + Shift + P
+Ctrl + Alt + Shift + PERIOD
+Ctrl + Alt + Shift + R
+Ctrl + Alt + Shift + SLASH
+Ctrl + Alt + Shift + T
+Ctrl + Alt + Shift + THREE
+Ctrl + Alt + Shift + TWO
+Ctrl + Alt + Shift + U
+Ctrl + Alt + Shift + V
+Ctrl + Alt + Shift + W
+Ctrl + Alt + Shift + WHEELINMOUSE
+Ctrl + Alt + Shift + WHEELOUTMOUSE
+Ctrl + Alt + Shift + X
+Ctrl + Alt + Shift + Y
+Ctrl + Alt + Shift + Z
